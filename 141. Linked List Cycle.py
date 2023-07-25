@@ -14,5 +14,6 @@ class Solution:
             else:
                 head.val=flag
             head=head.next
+            
         return False
         
